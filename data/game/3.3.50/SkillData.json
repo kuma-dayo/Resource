@@ -3498,7 +3498,7 @@
         10101,
         10102,
         10002,
-        // 5077010
+        5077010
       ],
       "ExtraAbilities": [
         "",
@@ -8070,6 +8070,20 @@
     },
     {
       "Id": 5076010,
+      "AbilityName": "",
+      "MaxChargeNum": 1,
+      "GlobalValueKey": "",
+      "TriggerID": 30
+    }
+    {
+      "Id": 5077010,
+      "AbilityName": "",
+      "MaxChargeNum": 1,
+      "GlobalValueKey": "",
+      "TriggerID": 30
+    }
+    {
+      "Id": 5078010,
       "AbilityName": "",
       "MaxChargeNum": 1,
       "GlobalValueKey": "",
